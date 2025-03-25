@@ -2,7 +2,7 @@
  
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Engenharia de Software Unimetrocamp.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
+- 💼 Trabalhando como Analista de TI na Link Estacionamento.
 - 🌱 Aprendendo mais sobre Elixir.
  
 ## Minhas Skills
